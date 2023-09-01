@@ -68,7 +68,7 @@ st.write("""
 """)
 
 st.write("""
-     Please find the R file for the first day.
+     Please find the [R](https://github.com/ENVY0010/R/blob/main/R_1_310823.R) file for the first day.
     
 """)
 
