@@ -121,6 +121,10 @@ st.write("\n")
 st.write("""
      find more details and ppt [here](https://ublearns.buffalo.edu/d2l/le/content/125941/viewContent/3149757/View)
 """)
-
-
+st.write("Day-3")
+st.write("\n")
+st.write("""
+     refer to ppt [here](https://ublearns.buffalo.edu/d2l/le/content/125941/viewContent/3225529/View)\n
+     no further explanation needed.
+""")
 

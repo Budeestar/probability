@@ -42,3 +42,12 @@ st.write("""
     refer below for [KEY_TERMINOLOGY](https://ublearns.buffalo.edu/d2l/le/content/142289/viewContent/3127445/View)
     
 """)
+
+st.write('\n')
+st.subheader("WEEK-2 ")
+
+st.write("""
+    Discussed on AGILE and WATERFALL models.
+    refer to the document [here](https://ublearns.buffalo.edu/d2l/le/content/142289/viewContent/3127446/View)
+    
+""")

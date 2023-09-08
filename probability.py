@@ -73,6 +73,33 @@ st.write("""
 """)
 
 
+st.subheader("Day-3&4 both 5 sep & 7 sep 2023)")
+st.write('\n')
+
+st.subheader("Basics of probability using R")
+st.write('\n')
+st.write("""
+    Probability basics
+    - An experiment is a process that produces an observation.
+- An outcome is a possible observation.
+- The set of all possible outcomes is called the sample space.
+- An event is a subset of the sample space.
+- A trial is a single running of an experiment.
+""")
 
 
-
+st.write('\n')
+st.write("""
+    refer to sets venn diagrams for detailed understanding of probability.
+""")
+st.write('\n')
+st.write("""
+    refers to the pics for axioms \n
+    [probability-1](https://github.com/ENVY0010/R/blob/main/probability-1.PNG) \n
+    [probability-2](https://github.com/ENVY0010/R/blob/main/probability-2.PNG) \n
+    [probability-3](https://github.com/ENVY0010/R/blob/main/probability-3.PNG) \n
+    [probability-4](https://github.com/ENVY0010/R/blob/main/probability-4.PNG) \n
+    refer to [conditional probability](https://mathstat.slu.edu/~speegle/_book/probchapter.html#simulating-conditional-probability) \n
+    refer to r file on [sep-5](https://github.com/ENVY0010/R/blob/main/20230905-probability.R) \n
+    refer to r file on [sep-7](https://github.com/ENVY0010/R/blob/main/20230907.R) \n
+""")

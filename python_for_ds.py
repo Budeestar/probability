@@ -60,3 +60,14 @@ st.write("""
 
     Refer to the ipynb [here](https://github.com/mkzia/eas503/blob/master/week1/week1_b.ipynb).
 """)
+
+st.write('\n')
+st.subheader("WEEK -2")
+st.write('\n')
+st.write("""
+    functions on Day-1 of week 2 \n
+    refer to python [code](https://github.com/mkzia/eas503/blob/master/week2/Untitled.ipynb) \n
+    strings on Day-2 of week 2 \n
+    refer to python [code](https://github.com/mkzia/eas503/blob/master/week2/week2_b.ipynb) \n
+    
+""")
