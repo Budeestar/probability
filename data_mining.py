@@ -71,10 +71,10 @@ st.subheader("Day-2 31 Aug 2023)")
 
 st.write('\n')
 st.write("""
-    What is data mining: Tools, methodologies and theories for revealing patterns in the data.(In short, it is the use of tools and technologies to find patterns from a large dataset)
-    Types:
-    Descriptive Data mining:finding unexpected structures or relationships, patterns, trends, clusters, and outliers in the data.
-    predictive data mining: regression, classification, pattern recognition, or machine learning tasks, and assess the predictive accuracy or those models and procedures when applied to fresh data
+    What is data mining: Tools, methodologies and theories for revealing patterns in the data.(In short, it is the use of tools and technologies to find patterns from a large dataset).\n
+    Types:\n
+    Descriptive Data mining:finding unexpected structures or relationships, patterns, trends, clusters, and outliers in the data.\n
+    predictive data mining: regression, classification, pattern recognition, or machine learning tasks, and assess the predictive accuracy or those models and procedures when applied to fresh data.\n
 """)
 
 st.write('\n')
@@ -121,10 +121,22 @@ st.write("\n")
 st.write("""
      find more details and ppt [here](https://ublearns.buffalo.edu/d2l/le/content/125941/viewContent/3149757/View)
 """)
-st.write("Day-3")
+st.subheader("Day-3")
 st.write("\n")
 st.write("""
      refer to ppt [here](https://ublearns.buffalo.edu/d2l/le/content/125941/viewContent/3225529/View)\n
      no further explanation needed.
+""")
+
+st.subheader("Day -4")
+st.write("\n")
+st.write("""
+     Linear Regression for advertising and sales data and maths behind linear regression. \n
+     How to find errors and minimize the error....\n
+     find the coefficinet and the constant value...\n
+     Error formulas and other formulas.\n
+     Theory and math behind the linea regression and multiple linear regression. \n
+     for details please find ppt [here](https://ublearns.buffalo.edu/d2l/le/content/125941/viewContent/3405718/View) for this week
+     
 """)
 
