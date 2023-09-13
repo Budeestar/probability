@@ -140,3 +140,28 @@ st.write("""
      
 """)
 
+st.subheader("Day -5")
+st.write("\n")
+
+st.write("""
+    Gram-Schmidt-orthogonalization.\n
+    It is based on orthogonalisation where the dot product is 0.
+    the vectors (z1=X1-X) and the dot product of Xi*Yi/Xi*Xi is 0
+    but practically it is not possible.\n
+    based on the summation of Xi*Yi/Xi*Xi gives us the coefficient.\n
+    Gauss Markov theorem similar to above
+    assuming linear model is true and the constant is zero.\n
+    Do model selection using 2 methods.\n
+    1.forward selection -(0 predictors, 1 predictors.... n predictors)\n
+    2.backward selection -(n predictors, n-1 predictors..... 1 predictor)\n
+    taking factors or parameters into consideration for regression. \n
+    for categorical do one hot encoding.\n
+    same for multi linear regression.\n
+    Taking persons from different continents 
+    example: y=m1x1+m2x2..... m1 for african, m2 for american.....\n
+    Interpretation of model.\n
+    plotting the graphs, manly surface graphs..\n
+    
+    for details please find ppt [here](https://ublearns.buffalo.edu/d2l/le/content/125941/viewContent/3405718/View) for this week
+    
+""")
