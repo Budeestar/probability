@@ -165,3 +165,34 @@ st.write("""
     for details please find ppt [here](https://ublearns.buffalo.edu/d2l/le/content/125941/viewContent/3405718/View) for this week
     
 """)
+
+st.subheader("Day -6")
+st.write("\n")
+
+st.write("""
+    collinearity: refers to situation where two variables are closely related(predictor variables)\n
+    It is greater than 1 \n
+    check VIF formula form slides where R^2 = mean square error.\n
+    refer to the slides [here](https://ublearns.buffalo.edu/d2l/le/content/125941/viewContent/3405718/View) for this week
+    subset selection and interpretation.\n
+    choosing the optimal model with less RSS and more R^2 for training error because model with low training error does well with prediction.\n
+    so for more featires RSS and R^2 are not suitable.\n
+    Estimate test errors:\n
+    refer to ppt [here](https://ublearns.buffalo.edu/d2l/le/content/125941/viewContent/3551522/View)\n
+    mallow's cp and AIC should be low for better prediction where in the case the "L" value should be more.\n
+    BIC (check details of BIC in the above ppt)\n
+    mallows cp, AIC, BIC should be less for better prediction and model\n
+    Adjusted R^2 (checkppt) should be more for better model.\n
+    approaches for better models:
+    subset selection,
+    shrinkage,
+    dimension reduction.\n
+    Ways of subset selection:\n
+    1. Exhaustive --based of forward selection select number of predictors with smallest RSS and large R^2--- loop in for different k values and select k value.\n 
+    2. leaps and bounds algorithm.---- plot RSS and sub set size and based on graph select the number of predictors.\n
+    3. forward stepwise.--- specify k value explicitly.\n
+    4. backward stepwise.(check ppt for difference between exhaustive and forward stepwise.)\n
+
+    Check the R code for better understanding.
+    
+""")
