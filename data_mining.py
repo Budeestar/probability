@@ -196,3 +196,15 @@ st.write("""
     Check the R code for better understanding.
     
 """)
+
+st.subheader("Day -7")
+st.write("\n")
+
+st.write("""
+    Model Selection:\n
+    K-fold cross validation.\n
+    penalized regression--> LASSO regression and RIDGE regression(shrinkage methods)\n
+    
+    refer to ppt [here](https://ublearns.buffalo.edu/d2l/le/content/125941/viewContent/3557692/View)
+    
+""")
